@@ -4,7 +4,7 @@ year,stage,input,output,prod
 2020,proc,spod,loh,47.78918811
 2020,proc,spod,lce,0.0
 2020,proc,clay,loh,0.0
-2020,proc,clay,lce,45.33939429
+2020,proc,clay,lce,40.33939429
 2021,proc,brine,loh,0.0
 2021,proc,brine,lce,0.0
 2021,proc,spod,loh,105.7999445
@@ -169,7 +169,7 @@ year,stage,input,output,prod
 2047,proc,clay,lce,809.8535397
 2048,proc,brine,loh,0.0
 2048,proc,brine,lce,0.0
-2048,proc,spod,loh,1543.646125
+2048,proc,spod,loh,1400.646125
 2048,proc,spod,lce,0.0
 2048,proc,clay,loh,0.0
 2048,proc,clay,lce,851.5259527
